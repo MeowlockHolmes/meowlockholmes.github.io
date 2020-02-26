@@ -34,7 +34,7 @@
                 margin-top: 25%;
             }
             header a:hover {
-                color: #FFBF00;
+                color: rgb(204, 23, 23);
             }
 
             header .logo a {
@@ -43,7 +43,7 @@
                 background-repeat: no-repeat;
                 display: inline-block;
                 position: relative;
-                top: -10px;
+                top: 0px;
                 width: 100px;
                 text-indent: -9999999px;
             }
@@ -120,7 +120,7 @@
                 font-family: 'Roboto';
                 font-size: 24px;
                 color: #151D21;
-                background: #FFBF00;
+                background: rgb(255, 0, 0);
                 display: inline-flex;
                 padding: 6px;
                 margin-top: 30px;
@@ -131,7 +131,7 @@
             }
         
             section .mybutton:hover {
-                background: white;
+                background: rgb(184, 14, 14);
                 font-size: 26px;
                 margin-top: 29px;
             }
