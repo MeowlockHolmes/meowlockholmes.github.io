@@ -21,7 +21,7 @@
             }
             header {
                 margin: 0 0 0 0;
-                background-color: #0e0e0e;
+                background-color: #111111;
                 text-align: center;
                 background-position: center;
                 color: #dedede;
@@ -29,12 +29,12 @@
 
             header a {
                 text-decoration: none;
-                color: #eb6161;
+                color: #dedede;
                 text-transform: uppercase;
                 margin-top: 25%;
             }
             header a:hover {
-                color: #d14040;
+                color: #FFBF00;
             }
 
             header .logo a {
@@ -119,8 +119,8 @@
                 text-decoration: none;
                 font-family: 'Roboto';
                 font-size: 24px;
-                color: #dedede;
-                background: #eb6161;
+                color: #151D21;
+                background: #FFBF00;
                 display: inline-flex;
                 padding: 6px;
                 margin-top: 30px;
@@ -131,7 +131,7 @@
             }
         
             section .mybutton:hover {
-                background: #d14040;
+                background: white;
                 font-size: 26px;
                 margin-top: 29px;
             }
