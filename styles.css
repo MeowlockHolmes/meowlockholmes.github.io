@@ -34,7 +34,7 @@
                 margin-top: 25%;
             }
             header a:hover {
-                color: rgb(204, 23, 23);
+                color: rgb(226, 79, 79);
             }
 
             header .logo a {
@@ -120,7 +120,7 @@
                 font-family: 'Roboto';
                 font-size: 24px;
                 color: #151D21;
-                background: rgb(255, 0, 0);
+                background: rgb(219, 66, 66);
                 display: inline-flex;
                 padding: 6px;
                 margin-top: 30px;
