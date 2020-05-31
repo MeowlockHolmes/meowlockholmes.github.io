@@ -76,6 +76,12 @@
                 padding: 3%;
                 font-size: 100%;
             }
+			
+			section.feature.title.bigger {
+                color: #dedede;
+                padding: 3%;
+                font-size: 150%;
+            }
 
             .feature div {
                 text-align: center;
