@@ -91,7 +91,7 @@
 
             section.feature.close {
                 color: #efefef;
-                padding: 5%;
+                padding: 2%;
                 font-size: 125%;
                 font-family: 'Courier New';
             }
@@ -104,7 +104,7 @@
 			
 			section.feature.title.bigger {
                 color: #dedede;
-                padding: 3%;
+                padding: 0%;
                 font-size: 300%;
                 font-family: 'Courier New';
             }
@@ -156,7 +156,37 @@
                 margin-left: 10px;
                 margin-right: 10px;
                 margin-top: 10px;
+                width: 150px;
+            }
+            img.games3 {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 10px;
+                width: 250px;
+            }
+            img.games4 {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 10px;
                 width: 100px;
+            }
+            img.games5 {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 10px;
+                width: 400px;
+            }
+            img.games6 {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 10px;
+                width: 600px;
+            }
+            img.games7 {
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 10px;
+                width: 500px;
             }
 
             img.games:hover{
@@ -178,8 +208,8 @@
                 display: inline-flex;
                 padding: 5px;
                 margin-top: 30px;
-                margin-right: 3%;
-                margin-left: 3%;
+                margin-right: 1%;
+                margin-left: 1%;
                 border: none;
                 border-top-left-radius: 10px;
                 border-top-right-radius: 0px;
